@@ -2,7 +2,7 @@
 
 This plugin allows editing the raw HTML source & attributes of the selected element in CKEditor.
 https://sestolab.pp.ua/addons/CKEditor/elementeditor
-
+ * [Gitlab](https://gitlab.com/Sestolab/ckeditor-plugins/elementeditor)
 ## Requirements
 
 * [CKEditor](https://ckeditor.com/ckeditor-4) version 4.11.3 or greater
